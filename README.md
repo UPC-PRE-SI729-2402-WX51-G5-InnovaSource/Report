@@ -1,3 +1,5 @@
+![upc logo](images/upc_logo.png)
+
 **Universidad Peruana de Ciencias Aplicadas**
 
 **Ingeniería de Software \- Grupo 5 (WX51)**
