@@ -198,3 +198,10 @@ En nuestro segundo segmento, **cocineros caseros**, realizamos tres entrevistas 
 | **US027 - Gestión de días de descanso**      | Media / Media                            | Alta / Alta                               | Media / Media                                           |
 | **US028 - Opciones de personalización**      | Alta / Alta                              | Alta / Alta                               | Alta / Alta                                             |
 | **US029 - Función de encuestas a clientes**  | Media / Media                            | Media / Media                             | Media / Media                                           |
+
+
+### 2.3.3. User Journey Mapping.
+#### Universitarios y Profesionales Ocupados
+![User Journey Mapping del Segmento 1](images/UserJourneyMappingSegmento1.png)
+#### Cocineros Caseros
+![User Journey Mapping del Segmento 2](images/UserJourneyMappingSegmento2.png)
