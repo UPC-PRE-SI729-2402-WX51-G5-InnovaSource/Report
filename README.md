@@ -238,6 +238,13 @@ Nuestra visión es ser la plataforma líder en conectar cocineros caseros y cons
 
 ### **1.1.2. Perfiles de integrantes del equipo**
 
+####  Nombre: Cuya Villegas, Rafael Alberto | U201913495
+
+> Soy Rafael Cuya de la carrera de Ingeniería de Software, soy una persona responsable y perseverante, me gusta hacer deporte en especial jugar fútbol.
+>
+> [Imagen]
+
+---
 
 ## **1.2. Solution Profile**
 
