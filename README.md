@@ -58,5 +58,7 @@
 
 
 
+### 3.2 Impact Mapping
 
+![Impact Mapping](images/Impact-map.png)
 
