@@ -144,3 +144,12 @@ Para nuestro primer segmento, **universitarios y profesionales ocupados**, reali
 ### Segmento 2: Cocineros Caseros
 
 En nuestro segundo segmento, **cocineros caseros**, realizamos tres entrevistas que revelaron que el principal interés en *Sabores Cercanos* proviene del deseo de obtener mayor visibilidad en el sector culinario, con el objetivo de generar ingresos adicionales a través de esta plataforma. Además, los entrevistados mencionaron varias características que les gustaría que nuestra aplicación incluyera para mejorar la administración y gestión de sus pequeños negocios. Por último, expresaron que consideran nuestra aplicación una excelente iniciativa que podría beneficiarles significativamente en el aspecto económico.
+
+
+## 2.3. Needfinding
+### 2.3.1. User Personas
+#### Universitarios y Profesionales Ocupados
+![User Persona del Segmento 1](images/UserPersona_Segmento1.png)
+
+#### Cocineros Caseros
+![User Persona del Segmento 2](images/UserPersona_Segmento2.png)
