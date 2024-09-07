@@ -58,7 +58,44 @@
 
 
 
-### 3.2 Impact Mapping
+## 3.2 Impact Mapping
 
 ![Impact Mapping](images/Impact-map.png)
 
+
+## 3.4. Product Backlog
+
+| # Orden | User Story Id | Título                             | Descripción                                                              | Story Points |
+|---------|---------------|------------------------------------|--------------------------------------------------------------------------|--------------|
+| 1       | US030         | Landing Page Responsive            | Como visitante de la plataforma, quiero que el landing page sea responsive para acceder cómodamente desde cualquier dispositivo. | 5            |
+| 2       | US031         | Descripción de servicios en el landing page | Como visitante del segmento profesional ocupado, quiero ver una descripción clara de los servicios en el landing page. | 3            |
+| 3       | US032         | Botones de llamada a la acción en el landing page | Como visitante del landing page, quiero ver botones claros de llamada a la acción para registrarme rápidamente o buscar comida. | 3            |
+| 4       | US001         | Registro de consumidor              | Como profesional ocupado, quiero registrarme en la plataforma para acceder a las opciones de comida casera. | 3            |
+| 5       | US002         | Búsqueda de comidas                 | Como profesional ocupado, quiero buscar comidas cercanas a mi ubicación para encontrar opciones rápidas. | 5            |
+| 6       | US003         | Filtros avanzados de búsqueda       | Como profesional ocupado, quiero aplicar filtros avanzados para encontrar opciones de comida que se ajusten a mis necesidades. | 8            |
+| 7       | US004         | Selección de menú personalizado     | Como profesional ocupado, quiero personalizar mi pedido según mis preferencias para ajustar la comida a mis necesidades. | 5            |
+| 8       | US005         | Notificaciones de nuevos menús      | Como profesional ocupado, quiero recibir notificaciones sobre nuevos menús cerca de mi ubicación. | 5            |
+| 9       | US006         | Repetición de pedidos               | Como profesional ocupado, quiero tener la opción de repetir mis pedidos anteriores para ahorrar tiempo. | 3            |
+| 10      | US007         | Programación de pedidos             | Como profesional ocupado, quiero programar la fecha y hora de entrega de mis pedidos. | 5            |
+| 11      | US008         | Métodos de pago                     | Como profesional ocupado, quiero pagar mi pedido a través de múltiples métodos de pago. | 8            |
+| 12      | US009         | Confirmación de entrega             | Como profesional ocupado, quiero confirmar la recepción de mi pedido.     | 3            |
+| 13      | US010         | Calificaciones de servicios         | Como profesional ocupado, quiero calificar el servicio del cocinero para ayudar a otros usuarios a tomar mejores decisiones. | 3            |
+| 14      | US011         | Gestión de favoritos                | Como profesional ocupado, quiero poder guardar mis cocineros y menús favoritos. | 5            |
+| 15      | US012         | Historial de pedidos                | Como profesional ocupado, quiero acceder a mi historial de pedidos.       | 5            |
+| 16      | US013         | Búsqueda de recetas de cocina       | Como profesional ocupado, quiero buscar recetas de cocina casera en la plataforma. | 5            |
+| 17      | US014         | Registro de cocineros               | Como cocinero casero, quiero registrarme en la plataforma para ofrecer mis servicios. | 3            |
+| 18      | US015         | Creación de perfil de cocinero      | Como cocinero casero, quiero crear un perfil que incluya mi historial culinario. | 5            |
+| 19      | US016         | Publicación de menús                | Como cocinero casero, quiero publicar menús diarios para que los clientes puedan elegir opciones. | 5            |
+| 20      | US017         | Configuración de áreas de entrega   | Como cocinero casero, quiero configurar las áreas de entrega para limitar los pedidos a zonas específicas. | 5            |
+| 21      | US018         | Recepción de pedidos                | Como cocinero casero, quiero recibir notificaciones automáticas de nuevos pedidos. | 3            |
+| 22      | US019         | Confirmación de entregas            | Como cocinero casero, quiero confirmar la entrega de los pedidos.         | 3            |
+| 23      | US020         | Integración de recetas              | Como cocinero casero, quiero compartir recetas de mis platos para que los usuarios puedan replicarlos. | 3            |
+| 24      | US021         | Gestión de pagos                    | Como cocinero casero, quiero recibir los pagos a través de la plataforma para gestionar mis ingresos. | 8            |
+| 25      | US022         | Reporte de ventas                   | Como cocinero casero, quiero recibir un reporte semanal de ventas.        | 5            |
+| 26      | US023         | Sistema de calificaciones           | Como cocinero casero, quiero recibir calificaciones de mis clientes para mejorar la calidad de mis servicios. | 5            |
+| 27      | US024         | Función de reordenar                | Como cocinero casero, quiero permitir a los usuarios volver a ordenar los mismos menús. | 3            |
+| 28      | US025         | Estadísticas de recetas compartidas | Como cocinero casero, quiero ver cuántas veces se han guardado o compartido mis recetas. | 5            |
+| 29      | US026         | Revisión de clientes                | Como cocinero casero, quiero revisar a mis clientes para asegurarme de que sean confiables. | 5            |
+| 30      | US027         | Gestión de días de descanso         | Como cocinero casero, quiero poder configurar días de descanso para bloquear pedidos cuando no esté disponible. | 5            |
+| 31      | US028         | Opciones de personalización         | Como cocinero casero, quiero permitir a los clientes personalizar sus pedidos para ajustarlos a sus restricciones dietéticas. | 5            |
+| 32      | US029         | Función de encuestas a clientes     | Como cocinero casero, quiero enviar encuestas a los clientes después de cada pedido para recibir feedback. | 5            |
