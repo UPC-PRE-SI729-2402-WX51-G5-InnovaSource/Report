@@ -8,7 +8,7 @@
 
 **Brand Name:** "Sabores Cercanos" es un nombre con el que buscamos transmitir una sensación de familiaridad y comodidad con relación a la comida. Surge de nuestro deseo por llevar a los usuarios la mejor versión del mundo culinario casero.
 
-![Sabores Cercanos, Logo](/assets/images/logo.png)
+![Sabores Cercanos, Logo](/images/LogoSC.png)
 
 **¿Qué debe tener?**
 
