@@ -35,7 +35,7 @@ Elegimos Lora para los párrafos debido a su legibilidad y estilo. Haciéndola p
 
 **Buttons:**
 
-![Botones](/assets/images/button-layout.jpg)
+![Botones](/assets/images/Botones.png)
 
 ### 4.1.2. Web Style Guidelines
 
